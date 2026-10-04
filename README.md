@@ -198,7 +198,7 @@ terraform-aws-infrastructure/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/qqqqqwwerty/terraform-aws-infrastructure.git
+git clone https://github.com/juw3x/terraform-aws-infrastructure.git
 cd terraform-aws-infrastructure
 ```
 
